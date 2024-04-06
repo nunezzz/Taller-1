@@ -1,0 +1,4 @@
+Invitado Especial,JungKook,26,Idol,Hybe,concierto
+Profesor,Comino,24,Profesor Universitario,Universidad del mar,catedra
+Profesional,Botas,25,Modelo,bbyIndustry,foro
+ayudante,vicho,19,estudiante,ucn,concierto
